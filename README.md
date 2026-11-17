@@ -3,7 +3,7 @@
 > [작성 필요: 한 줄 소개]
 
 ## Contact
-- Email: [작성 필요]
+- Email: [gypsidanger4584@gmail.com]
 - Blog: [작성 필요]
 - Github: https://github.com/gypsidanger4584-source
 
