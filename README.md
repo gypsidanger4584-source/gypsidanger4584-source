@@ -37,7 +37,7 @@
 | 항목 | 내용 |
 |---|---|
 | 소개 | 프로그래머스 Java 풀이와 Oracle SQL 풀이 저장소 |
-| 풀이 현황 | Java Lv.0 204개, Lv.1 79개, Lv.2 13개 / Oracle SQL 9개 |
+| 풀이 현황 | Java Lv.0 204개, Lv.1 79개, Lv.2 16개 / Oracle SQL 9개 |
 | 기술 스택 | Java / Oracle SQL / BaekjoonHub 자동 커밋 |
 | 링크 | [Repository](https://github.com/gypsidanger4584-source/my-grass) |
 
