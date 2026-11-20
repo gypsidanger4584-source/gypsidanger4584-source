@@ -4,7 +4,6 @@
 
 ## Contact
 - Email: [gypsidanger4584@gmail.com]
-- Blog: [작성 필요]
 - Github: https://github.com/gypsidanger4584-source
 
 ## Projects
