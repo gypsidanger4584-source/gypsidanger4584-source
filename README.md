@@ -3,7 +3,7 @@
 > [기존 시스템의 안정성은 지키고, 새로운 변화에는 유연한 개발자]
 
 ## Contact
-- Email: [gypsidanger4584@gmail.com]
+- Email: gypsidanger4584@gmail.com
 - Github: https://github.com/gypsidanger4584-source
 
 ## Projects
