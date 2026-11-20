@@ -1,6 +1,6 @@
-# [작성 필요] 포트폴리오
+# [유대웅] 포트폴리오
 
-> [작성 필요: 한 줄 소개]
+> [기존 시스템의 안정성은 지키고, 새로운 변화에는 유연한 개발자]
 
 ## Contact
 - Email: [gypsidanger4584@gmail.com]
@@ -28,7 +28,7 @@
 | 개발 기간 | 2025.04 ~ 2025.11 |
 | 개발 인원 / 역할 | 4인 팀 / 시간표, 로그인, 학식 랜덤 매칭 채팅, 관리자 기능 구현, 스터디 채팅방 아이디어 기획 |
 | 기술 스택 | Java 17 / Android (minSdk 31, targetSdk 35) / Firebase Auth, Firestore / Room / WorkManager / Retrofit, OkHttp / Glide / Biometric |
-| 주요 내용 | - 시간표: Room DB에 강의를 저장하고 WorkManager 주기 작업으로 다음 수업 알림을 띄웠습니다.<br>- 학식 랜덤 매칭: Firestore 대기열(`waiting`)과 트랜잭션으로 짝을 맺고, 1분 안에 매칭되지 않으면 실패 화면으로 이동하도록 했습니다. 대기열 조회에는 복합 색인(status, createdAt)을 설계했습니다.<br>- 로그인: 학번으로 이메일을 조회해 Firebase Auth로 로그인하고, 지문 인증 로그인을 붙였습니다.<br>- 관리자: 사용자 문서의 `role` 값으로 공지사항 작성과 공지 수정·삭제 권한을 나눴습니다.<br>- TFLite 비속어 필터를 구현했으나 문제가 생겨 제거했습니다. [작성 필요: 제거 사유] |
+| 주요 내용 | - 시간표: Room DB에 강의를 저장하고 WorkManager 주기 작업으로 다음 수업 알림을 띄웠습니다.<br>- 학식 랜덤 매칭: Firestore 대기열(`waiting`)과 트랜잭션으로 짝을 맺고, 1분 안에 매칭되지 않으면 실패 화면으로 이동하도록 했습니다. 대기열 조회에는 복합 색인(status, createdAt)을 설계했습니다.<br>- 로그인: 학번으로 이메일을 조회해 Firebase Auth로 로그인하고, 지문 인증 로그인을 붙였습니다.<br>- 관리자: 사용자 문서의 `role` 값으로 공지사항 작성과 공지 수정·삭제 권한을 나눴습니다.
 | 링크 | [프로젝트 Repository](https://github.com/gypsidanger4584-source/project-connect) |
 | 회고록 | [작성 필요] |
 
