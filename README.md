@@ -32,6 +32,6 @@
 | 기술 스택 | Java 17 / Android (minSdk 31, targetSdk 35) / Firebase Auth, Firestore / Room / WorkManager / Retrofit, OkHttp / Glide / Biometric |
 | 주요 내용 | - 시간표: Room DB에 강의를 저장하고 WorkManager 주기 작업으로 다음 수업 알림을 띄웠습니다.<br>- 학식 랜덤 매칭: Firestore 대기열(`waiting`)과 트랜잭션으로 짝을 맺고, 1분 안에 매칭되지 않으면 실패 화면으로 이동하도록 했습니다. 대기열 조회에는 복합 색인(status, createdAt)을 설계했습니다.<br>- 로그인: 학번으로 이메일을 조회해 Firebase Auth로 로그인하고, 지문 인증 로그인을 붙였습니다.<br>- 관리자: 사용자 문서의 `role` 값으로 공지사항 작성과 공지 수정·삭제 권한을 나눴습니다. |
 | 보안 개선 (2026.11) | 자동 로그인 비밀번호를 암호화 저장소로 옮기고, OpenAI 키를 소스에서 분리했으며, 앱 내 관리자 코드 입력 방식을 없앴습니다. Firestore 보안 규칙에서 `role` 변경을 막았고, 이 규칙은 AI 도움을 받아 작성했습니다. |
-| 링크 | [프로젝트 Repository](https://github.com/gypsidanger4584-source/project-connect) |
+| 링크 | [프로젝트 Repository](https://github.com/gypsidanger4584-source/project-connect) / [시간표 입력 시연 (7클릭→3클릭)](https://github.com/gypsidanger4584-source/project-connect/blob/main/docs/timetable-touch-compare-7to3.mp4) |
 
 ***
